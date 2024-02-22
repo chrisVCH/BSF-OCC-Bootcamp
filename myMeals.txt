@@ -1,2 +1,3 @@
 Breakfast: Milk & Egg
 Lunch: Noodle
+Dinner: Rice
