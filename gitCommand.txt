@@ -17,3 +17,8 @@ git add filename - stages filename
 git commit -m "commit message" - committing files in the staging area
 git rm --cache filename - remove a file from staging area.
 
+git reset - remove all files in the staging area 
+
+git log - see commit history
+git log --oneline - shortens commit history
+
